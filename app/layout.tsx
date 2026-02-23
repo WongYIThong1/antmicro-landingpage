@@ -18,23 +18,32 @@ const bodyFont = Manrope({
 });
 
 export const metadata: Metadata = {
-  title: "SQLBots - AI-Powered SQL Security Testing Platform",
-  description: "Automated SQL injection scanning, dumping and validation powered by AI engines.",
+  title: "AntsMicro - Complete IT Solutions for Business",
+  description:
+    "AntsMicro provides complete IT solutions including advanced antivirus protection, remote monitoring and support, and professional installation services.",
+  applicationName: "AntsMicro",
+  keywords: [
+    "AntsMicro",
+    "IT solutions",
+    "business IT support",
+    "antivirus protection",
+    "remote monitoring",
+    "professional installation service",
+    "IT services Singapore",
+    "IT services Malaysia",
+  ],
   openGraph: {
-    title: "SQLBots - AI-Powered SQL Security Testing Platform",
-    description: "Automated SQL injection scanning, dumping and validation powered by AI engines.",
+    title: "AntsMicro - Complete IT Solutions for Business",
+    description:
+      "Advanced antivirus protection, remote monitoring & support, and professional IT installation services for modern businesses.",
     images: [{ url: ogImageUrl }],
   },
   twitter: {
     card: "summary_large_image",
-    title: "SQLBots - AI-Powered SQL Security Testing Platform",
-    description: "Automated SQL injection scanning, dumping and validation powered by AI engines.",
+    title: "AntsMicro - Complete IT Solutions for Business",
+    description:
+      "Advanced antivirus protection, remote monitoring & support, and professional IT installation services for modern businesses.",
     images: [ogImageUrl],
-  },
-  icons: {
-    icon: "/icon.svg?v=2",
-    shortcut: "/icon.svg?v=2",
-    apple: "/icon.svg?v=2",
   },
 };
 
