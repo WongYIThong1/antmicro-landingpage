@@ -3,7 +3,7 @@ import { Manrope, Sora } from "next/font/google";
 import "./globals.css";
 
 const ogImageUrl =
-  "https://ubyttekkpuihhbkogznd.supabase.co/storage/v1/object/public/avatars/pggrapl%20(1).png";
+  "https://ubyttekkpuihhbkogznd.supabase.co/storage/v1/object/public/public/wpf178136e_05_06-removebg-preview.png";
 
 const displayFont = Sora({
   variable: "--font-display",
